@@ -5,7 +5,7 @@ import iphone from "../../../assests/iphone.png";
 import { motion } from "framer-motion";
 import { RWebShare } from "react-web-share";
 import { toast } from "react-toastify";
-import Button from "../../Common/Buttons";
+import Button from "../../Common/Button";
 
 function MainComponent() {
   return (

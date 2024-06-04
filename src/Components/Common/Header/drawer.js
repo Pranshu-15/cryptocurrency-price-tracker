@@ -3,7 +3,7 @@ import { useState } from "react";
 import MenuRoundedIcon from '@mui/icons-material/MenuRounded';
 import { IconButton } from "@mui/material";
 import './style.css'
-import Button from "../Buttons";
+import Button from "../Button";
 const  MobileNav = () => {
   const [open, setOpen] = useState(false);
 

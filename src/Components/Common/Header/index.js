@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '../../Common/Buttons';
+import Button from '../Button';
 import './style.css';
 import MobileNav from './drawer';
 
